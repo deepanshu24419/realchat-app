@@ -5,12 +5,13 @@
   "main": "server.js",
   "scripts": {
     "start": "node server",
-    "dev" : "nodemon server"
+    "dev": "nodemon server"
   },
   "author": "Deepansgu tyagi",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
+    "gh-pages": "^2.2.0",
     "moment": "^2.24.0",
     "socket.io": "^2.3.0"
   },
